@@ -145,4 +145,4 @@ if __name__ == "__main__":
 
     key = cv2.waitKey(0)
     if key == 27:  # esc
-        cv2.destroyAllWindows()
+        cv2.destroyAllWindows()
